@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">indira yulianti_f55121023_praktikum1</string>
+    <string name="Lenght">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+</resources>
